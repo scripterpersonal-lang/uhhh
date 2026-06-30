@@ -1,3 +1,7 @@
+----- Original Work Of 
+-- (Discord) the_2zd
+-- (Roblox) lanyso (oklama)
+
 local Ps = game:GetService("PathfindingService")
 local Tags = game:GetService("CollectionService")
 
